@@ -1,0 +1,7 @@
+# Ignore everything not needed for Wisecow project
+django-notes-app/
+git-assignment/
+*.log
+*.tmp
+*.swp
+__pycache__/

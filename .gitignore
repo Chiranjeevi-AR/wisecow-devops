@@ -5,3 +5,4 @@ git-assignment/
 *.tmp
 *.swp
 __pycache__/
+.git-credentials
